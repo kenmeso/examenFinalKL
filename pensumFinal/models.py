@@ -29,4 +29,4 @@ class MateriaAdmin (admin.ModelAdmin):
     inlines = (ListadoInLine,)
 
 
-"""Comentario
+"""Comentarios
